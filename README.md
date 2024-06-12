@@ -4,7 +4,7 @@ Repository contains IP addresses of C2 infrastructure collected during malware a
 This allows them to launch cyberattacks, steal personal data.
 
 
-C2 Frameworks:
+# C2 Frameworks:
 - Cobalt Strike
 - Empire
 - Metasploit Framework
@@ -14,7 +14,7 @@ C2 Frameworks:
 - XMRig Monero servers
 
 
-JSON file contains:
+# JSON file contains:
 - IPv4 address
 - Passive DNS replication
 - C2 Framework
