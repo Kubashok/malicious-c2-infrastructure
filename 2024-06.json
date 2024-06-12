@@ -1,0 +1,67 @@
+[
+{
+    "IP": "156.245.13.101",
+    "Passive DNS replication": "",
+    "C2 Framework": "Sliver"
+},
+{
+    "IP": "157.245.12.65",
+    "Passive DNS replication": "",
+    "C2 Framework": "Sliver"
+},
+{
+    "IP": "8.208.15.65",
+    "Passive DNS replication": "",
+    "C2 Framework": "Sliver"
+},
+{
+    "IP": "156.245.19.127",
+    "Passive DNS replication": "",
+    "C2 Framework": "Sliver"
+},
+{
+    "IP": "156.245.13.61",
+    "Passive DNS replication": "",
+    "C2 Framework": "Sliver"
+},
+{
+    "IP": "136.144.162.236",
+    "Passive DNS replication": "136-144-162-236.colo.transip.net",
+    "C2 Framework": "Sliver"
+},
+{
+    "IP": "201.243.95.21",
+    "Passive DNS replication": "201.243.95.21.estatic.cantv.net",
+    "C2 Framework": "Mythic"
+},
+{
+    "IP": "149.248.21.89",
+    "Passive DNS replication": "149.248.21.89.vultrusercontent.com",
+    "C2 Framework": "Mythic"
+},
+{
+    "IP": "3.76.124.183",
+    "Passive DNS replication": "ec2-3-76-124-183.eu-central-1.compute.amazonaws.com",
+    "C2 Framework": "Mythic"
+},
+{
+    "IP": "106.54.12.46",
+    "Passive DNS replication": "",
+    "C2 Framework": "Metasploit Framework"
+},
+{
+    "IP": "34.41.77.1",
+    "Passive DNS replication": "1.77.41.34.bc.googleusercontent.com",
+    "C2 Framework": "Metasploit Framework"
+},
+{
+    "IP": "145.239.230.233",
+    "Passive DNS replication": "ip233.ip-145-239-230.eu",
+    "C2 Framework": "Metasploit Framework"
+},
+{
+    "IP": "148.135.72.115",
+    "Passive DNS replication": "243-103-52-198-dedicated.multacom.com",
+    "C2 Framework": "Cobalt Strike"
+}
+]
