@@ -1,0 +1,101 @@
+[
+{
+    "IP": "84.252.94.179",
+    "Passive DNS replication": "",
+    "C2 Framework": "Sliver"
+},
+{
+    "IP": "38.242.152.52",
+    "Passive DNS replication": "vmi1470958.contaboserver.net",
+    "C2 Framework": "Sliver"
+},
+{
+    "IP": "8.134.163.72",
+    "Passive DNS replication": "",
+    "C2 Framework": "Cobalt Strike"
+},
+{
+    "IP": "74.48.19.146",
+    "Passive DNS replication": "pocket.schoolroutinetips.com",
+    "C2 Framework": "Cobalt Strike"
+},
+{
+    "IP": "209.222.0.68",
+    "Passive DNS replication": "209-222-0-68.choopa.net",
+    "C2 Framework": "Cobalt Strike"
+},
+{
+    "IP": "123.60.57.13",
+    "Passive DNS replication": "ecs-123-60-57-13.compute.hwclouds-dns.com",
+    "C2 Framework": "Cobalt Strike"
+},
+{
+    "IP": "154.38.167.90",
+    "Passive DNS replication": "vmi1509423.contaboserver.net",
+    "C2 Framework": "Mythic"
+},
+{
+    "IP": "217.12.200.158",
+    "Passive DNS replication": "dedic-1218460.hosted-by-itldc.com",
+    "C2 Framework": "Mythic"
+},
+{
+    "IP": "78.47.48.88",
+    "Passive DNS replication": "static.88.48.47.78.clients.your-server.de",
+    "C2 Framework": "Mythic"
+},
+{
+    "IP": "3.146.206.142",
+    "Passive DNS replication": "ec2-3-146-206-142.us-east-2.compute.amazonaws.com",
+    "C2 Framework": "Mythic"
+},
+{
+    "IP": "45.14.66.194",
+    "Passive DNS replication": "45.14.66.194.static.xtom.com",
+    "C2 Framework": "Mythic"
+},
+{
+    "IP": "139.84.212.103",
+    "Passive DNS replication": "139.84.212.103.vultrusercontent.com",
+    "C2 Framework": "Metasploit Framework"
+},
+{
+    "IP": "54.166.178.104",
+    "Passive DNS replication": "ec2-54-166-178-104.compute-1.amazonaws.com",
+    "C2 Framework": "Metasploit Framework"
+},
+{
+    "IP": "89.58.9.56",
+    "Passive DNS replication": "v2202112118727170766.bestsrv.de",
+    "C2 Framework": "Metasploit Framework"
+},
+{
+    "IP": "13.214.220.151",
+    "Passive DNS replication": "ec2-13-214-220-151.ap-southeast-1.compute.amazonaws.com",
+    "C2 Framework": "Metasploit Framework"
+},
+{
+    "IP": "145.239.230.233",
+    "Passive DNS replication": "ip233.ip-145-239-230.eu",
+    "C2 Framework": "Metasploit Framework"
+},
+{
+    "IP": "18.159.141.121",
+    "Passive DNS replication": "ec2-18-159-141-121.eu-central-1.compute.amazonaws.com",
+    "C2 Framework": "Metasploit Framework"
+},
+{
+    "IP": "54.166.178.104",
+    "Passive DNS replication": "ec2-54-166-178-104.compute-1.amazonaws.com",
+    "C2 Framework": "Metasploit Framework"
+},
+{
+    "IP": "139.84.212.103",
+    "Passive DNS replication": "139.84.212.103.vultrusercontent.com",
+    "C2 Framework": "Metasploit Framework"
+},
+{
+    "IP": "54.166.178.104",
+    "Passive DNS replication": "ec2-54-166-178-104.compute-1.amazonaws.com",
+    "C2 Framework": "Metasploit Framework"
+}]
