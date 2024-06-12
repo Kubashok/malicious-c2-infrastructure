@@ -9,3 +9,8 @@ Frameworks:
 - Posh
 - Sliver
 - XMRig Monero servers
+
+JSON file contains:
+- IPv4 address
+- Passive DNS replication
+- C2 Framework
