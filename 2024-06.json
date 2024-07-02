@@ -63,5 +63,25 @@
     "IP": "148.135.72.115",
     "Passive DNS replication": "243-103-52-198-dedicated.multacom.com",
     "C2 Framework": "Cobalt Strike"
+},
+{
+    "IP": "194.163.145.255",
+    "IP malicious": 0,
+    "C2 Famework": "Metasploit Framework"
+},
+{
+    "IP": "3.7.45.152",
+    "IP malicious": 0,
+    "C2 Famework": "Metasploit Framework"
+},
+{
+    "IP": "114.132.122.251",
+    "IP malicious": 0,
+    "C2 Famework": "Cobalt Strike"
+},
+{
+    "IP": "83.136.255.40",
+    "IP malicious": 0,
+    "C2 Famework": "Sliver"
 }
 ]
