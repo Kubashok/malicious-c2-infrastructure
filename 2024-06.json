@@ -66,22 +66,22 @@
 },
 {
     "IP": "194.163.145.255",
-    "IP malicious": 0,
     "C2 Famework": "Metasploit Framework"
 },
 {
     "IP": "3.7.45.152",
-    "IP malicious": 0,
     "C2 Famework": "Metasploit Framework"
 },
 {
+    "IP": "13.56.52.35",
+    "C2 Famework": "Cobalt Strike"
+},    
+{
     "IP": "114.132.122.251",
-    "IP malicious": 0,
     "C2 Famework": "Cobalt Strike"
 },
 {
     "IP": "83.136.255.40",
-    "IP malicious": 0,
     "C2 Famework": "Sliver"
 }
 ]
