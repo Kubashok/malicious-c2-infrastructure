@@ -1,0 +1,107 @@
+[
+{
+    "IP": "1.92.108.4",
+    "Passive DNS replication": "ecs-1-92-108-4.compute.hwclouds-dns.com",
+    "C2 Framework": "Metasploit Framework"
+},
+{
+    "IP": "20.212.165.132",
+    "Passive DNS replication": "",
+    "C2 Framework": "Sliver"
+},
+{
+    "IP": "85.190.241.71",
+    "Passive DNS replication": "vmi1897220.contaboserver.net",
+    "C2 Framework": "Sliver"
+},
+{
+    "IP": "194.182.188.191",
+    "Passive DNS replication": "",
+    "C2 Framework": "Sliver"
+},
+{
+    "IP": "167.179.110.206",
+    "Passive DNS replication": "167.179.110.206.vultrusercontent.com",
+    "C2 Framework": "Sliver"
+},
+{
+    "IP": "38.207.191.185",
+    "Passive DNS replication": "",
+    "C2 Framework": "Sliver"
+},
+{
+    "IP": "163.69.88.244",
+    "Passive DNS replication": "",
+    "C2 Framework": "Sliver"
+},
+{
+    "IP": "38.242.200.94",
+    "Passive DNS replication": "vmi1270062.contaboserver.net",
+    "C2 Framework": "Sliver"
+},
+{
+    "IP": "8.220.197.83",
+    "Passive DNS replication": "",
+    "C2 Framework": "Sliver"
+},
+{
+    "IP": "3.1.101.240",
+    "Passive DNS replication": "ec2-3-1-101-240.ap-southeast-1.compute.amazonaws.com",
+    "C2 Framework": "Sliver"
+},
+{
+    "IP": "103.73.66.48",
+    "Passive DNS replication": "",
+    "C2 Framework": "Sliver"
+},
+{
+    "IP": "162.243.166.193",
+    "Passive DNS replication": "",
+    "C2 Framework": "Sliver"
+},
+{
+    "IP": "8.218.138.77",
+    "Passive DNS replication": "",
+    "C2 Framework": "Sliver"
+},
+{
+    "IP": "57.129.14.39",
+    "Passive DNS replication": "vps-af122327.vps.ovh.net",
+    "C2 Framework": "Sliver"
+},
+{
+    "IP": "47.238.31.2",
+    "Passive DNS replication": "",
+    "C2 Framework": "Cobalt Strike"
+},
+{
+    "IP": "47.98.188.233",
+    "Passive DNS replication": "",
+    "C2 Framework": "Cobalt Strike"
+},
+{
+    "IP": "107.148.146.30",
+    "Passive DNS replication": "",
+    "C2 Framework": "Cobalt Strike"
+},
+{
+    "IP": "107.173.11.19",
+    "Passive DNS replication": "107-173-11-19-host.colocrossing.com",
+    "C2 Framework": "Cobalt Strike"
+},
+{
+    "IP": "106.15.184.255",
+    "Passive DNS replication": "",
+    "C2 Framework": "Cobalt Strike"
+},
+{
+    "IP": "39.100.101.55",
+    "Passive DNS replication": "",
+    "C2 Framework": "Cobalt Strike"
+},
+{
+    "IP": "95.214.234.74",
+    "Passive DNS replication": "saascloud0050.ejancisrobinson.com",
+    "C2 Framework": "Cobalt Strike"
+}
+]
